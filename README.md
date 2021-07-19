@@ -1,46 +1,125 @@
-# Getting Started with Create React App
+<br/>
+<p align="center">
+    <img src ="./src/assets/logo.svg" width="400" > 
+</p>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<h2 align="center"> 
+<img src="https://img.shields.io/badge/Status-Termidado-green">
+<img alt="GitHub language count" src="https://img.shields.io/github/languages/count/isaiasnhantumbo/dtmoney">
 
-## Available Scripts
+<img alt="GitHub language count" src="https://img.shields.io/github/languages/top/isaiasnhantumbo/dtmoney">
 
-In the project directory, you can run:
+<img alt="GitHub language count" src="https://img.shields.io/github/repo-size/isaiasnhantumbo/dtmoney">
+<img alt="GitHub language count" src="https://img.shields.io/github/license/isaiasnhantumbo/dtmoney">
+</h2>
+<br>
 
-### `yarn start`
+<p align="center">
+<a href="#-tecnologias-usadas">Tecnologias usadas</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+<a href="#-pré-requisitos">Pré-requisitos</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+<a href="#-como-rodar-o-projecto">Como rodar o projecto</a>
+</p>
+<p align="center">
+    <img src ="./.github/assets/print.png" > 
+</p>
+<p align="center">
+O <span>dt money</span> é aplicativo para gerir as finanças que foi construindo no Bootcamp Ignite da rockeseat na trilha Reactjs
+<!-- <p align="center">
+    <img src ="./.github/assets/ezgif.gif" - gif > 
+</p> -->
+<!-- <h1 align="center"><a target="_blank" href="https://letmeask-3fc59.web.app/">Acessar Demonstração</a></h1> -->
+<!-- 
+## ✅ Features
+  - [x] Adicionar Tra
+  - [x] Criar sala
+  - [x] Compartilhar código da sala
+  - [x] Destacar a pergunta que esta a ser a respondida
+  - [x] Eliminar pergunta
+  - [x] Encerrar sala -->
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
 
-### `yarn test`
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-### `yarn build`
+<p align="center">
+  <!-- <img src = "http://i.imgur.com/0iorG20.png" width=700> -->
+</p>
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+---
+## 🛠 Tecnologias usadas
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+As seguintes ferramentas foram usadas na construção do projeto:
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `yarn eject`
+- ReactJs
+- Typescript
+- Styled Components
+- Polished
+- ContextApi
+- Hooks
+- React Modal
+- Axios
+- Miragejs
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+---
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+<!-- ## ⛈  Desafios do projecto
+  - [x] Responsividade
+ 
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+--- -->
 
-## Learn More
+## ⚠ Pré-requisitos
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
+[Git](https://git-scm.com), [Node.js](https://nodejs.org/en/). 
+Além disto é bom ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/)
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+---
+## 🎲 Como rodar o projecto
+
+```bash
+# Clone este repositório
+$ git clone <https://github.com/isaiasnhantumbo/dtnoney.git>
+
+# Acesse a pasta do projeto no terminal/cmd
+$ cd dtnoney
+
+# Abra a pasta no Visual Studio Code
+$ code .
+
+# Instale as dependência
+$ yarn
+
+# Execute a aplicação com o yarn
+$ yarn start
+
+# O servidor inciará na porta:3000 - acesse <http://localhost:3000>
+```
+
+---
+
+
+## 📘 Licença
+Este projecto usa a  [MIT License](LICENSE).
+****
+<h1 align="center">
+👨🏽‍🏫 
+<br>
+Desenvolvido por
+<br>
+ Isaias Nhantumbo Junior
+</h1>
+</p>
+<h1 align="center"> 🤝 &nbsp;Vamos nos conectar ?👨 </h1>
+
+<p align="center">
+<a href="https://www.youtube.com/channel/UCOyeYkH0MwJ6RrXTcEFFdAQ?view_as=subscriber"><img alt="Youtube" src="https://img.shields.io/badge/Channel-Isaias_Nhantumbo-blue?style=flat-square&logo=youtube"></a>
+<a href="https://www.linkedin.com/in/isaias-nhantumbo-junior-733bb619b/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Isaias%20Nhantumbo%20Junior-green?style=flat-square&logo=linkedin"></a>
+<a href="https://www.instagram.com/isaias_nhantumbo/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-isaiasnhantumbo_-blue??style=for-the-badge&logo=instagram"></a>
+</p>
+
+
+
+
